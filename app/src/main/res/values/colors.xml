@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66CADE</color>
+    <color name="colorPrimaryDark">#4FBAD0</color>
+    <color name="colorAccent">#778899</color>
+    <color name="windowBackground">#F1F7F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="redStatus">#C25858</color>
+    <color name="greenStatus">#8B995C</color>
+    <color name="blueStatus">#51A6D5</color>
+    <color name="toolBarBlue">#5BB9EE</color>
+    <color name="toolBarRed">#D96363</color>
+    <color name="toolBarGreen">#9BAB67</color>
+    <color name="laputaButton">#F57744</color>
+    <color name="laputaBack">#FFFCF9</color>
+    <color name="totoroButton">#F85414</color>
+    <color name="totoroBack">#F1F5F7</color>
+    <color name="totoroTitle">#023358</color>
+    <color name="porcoButton">#4F78BC</color>
+</resources>
